@@ -106,14 +106,12 @@ tcc-retencao-video-vertical/
 ├── TCCII_pipeline_retencao_video_vertical.ipynb      # Pipeline principal de análise
 │
 ├── data/
-│   ├── TikTokData_1.xlsx                             # Dataset real — canal TikTok (Zawacki, 2021–2022)
-│   ├── TikTokData_Video_Uploads.csv                  # Dados de uploads do TikTok
+│   ├── TikTokData_Video_Uploads.csv                  # Dataset real — canal TikTok (Zawacki, 2021–2022)
 │   ├── youtube_shorts_tiktok_trends_2025.csv         # Dataset público de tendências (48k+ registros)
-│   └── DATA_DICTIONARY_1.csv                         # Dicionário de dados (58 variáveis)
+│   └── DATA_DICTIONARY.csv                           # Dicionário de dados (58 variáveis)
 │
 ├── docs/
-│   ├── TCC_Vitor_Hugo_M_Silveira.pdf                 # Trabalho escrito completo
-│   └── MVP_TCC_I.pdf                                 # Projeto Mínimo Viável (TCC I)
+│   └── TCC_Vitor_Hugo_M_Silveira.pdf                 # Trabalho escrito completo
 │
 ├── dashboards/
 │   ├── dashboard_1_tiktok_real_1.png                 # Análise do canal TikTok real
