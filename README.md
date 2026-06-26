@@ -126,7 +126,7 @@ A pesquisa é **quantitativa, exploratória e descritiva**, combinando análise 
 
 | Dataset | Fonte | Registros | Descrição |
 |---|---|---|---|
-| TikTokData_1.xlsx | Emily Zawacki (Kaggle/Figshare) | 48 vídeos | Métricas reais de canal de Geologia (2021–2022) |
+| TikTokData_Video_Uploads.csv | Emily Zawacki (Kaggle/Figshare) | 48 vídeos | Métricas reais de canal de Geologia (2021–2022) |
 | youtube_shorts_tiktok_trends_2025.csv | Público | 48.079 linhas | Tendências TikTok e YouTube Shorts, 58 variáveis |
 
 ### Métricas Analisadas
