@@ -2,12 +2,20 @@
 
 > Trabalho de Conclusão de Curso — Bacharelado em Sistemas de Informação
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green?logo=scikit-learn)](https://scikit-learn.org)
-[![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)]()
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-Acadêmica-lightgrey)]()
-
+<div align="center">
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://jupyter.org">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
+  <a href="https://scikit-learn.org">
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-FFD700?style=for-the-badge&logoColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/Licença-Acadêmica-lightgrey?style=for-the-badge" alt="Licença"/>
+</div>
 ---
 
 ## 📋 Sobre o Projeto
