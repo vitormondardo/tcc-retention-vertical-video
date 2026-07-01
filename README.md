@@ -2,11 +2,73 @@
 
 > Trabalho de Conclusão de Curso — Bacharelado em Sistemas de Informação
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green?logo=scikit-learn)](https://scikit-learn.org)
-[![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)]()
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-Acadêmica-lightgrey)]()
+## 🛠️ Tecnologias & Ecossistema
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💻 Linguagem & Ambiente</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
+        <br><br>
+        <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Análise & Visualização</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+        <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        <br><br>
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Machine Learning</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-Learn">
+        <br><br>
+        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚙️ Versionamento & Outros</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Infra Tools">
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+---
+
+## ⚙️ Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode&theme=dark&perline=8" alt="Main Stack Icons">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
@@ -44,14 +106,12 @@ tcc-retencao-video-vertical/
 ├── TCCII_pipeline_retencao_video_vertical.ipynb      # Pipeline principal de análise
 │
 ├── data/
-│   ├── TikTokData_1.xlsx                             # Dataset real — canal TikTok (Zawacki, 2021–2022)
-│   ├── TikTokData_Video_Uploads.csv                  # Dados de uploads do TikTok
+│   ├── TikTokData_Video_Uploads.csv                  # Dataset real — canal TikTok (Zawacki, 2021–2022)
 │   ├── youtube_shorts_tiktok_trends_2025.csv         # Dataset público de tendências (48k+ registros)
-│   └── DATA_DICTIONARY_1.csv                         # Dicionário de dados (58 variáveis)
+│   └── DATA_DICTIONARY.csv                           # Dicionário de dados (58 variáveis)
 │
 ├── docs/
-│   ├── TCC_Vitor_Hugo_M_Silveira.pdf                 # Trabalho escrito completo
-│   └── MVP_TCC_I.pdf                                 # Projeto Mínimo Viável (TCC I)
+│   └── TCC_Vitor_Hugo_M_Silveira.pdf                 # Trabalho escrito completo
 │
 ├── dashboards/
 │   ├── dashboard_1_tiktok_real_1.png                 # Análise do canal TikTok real
@@ -126,7 +186,7 @@ A pesquisa é **quantitativa, exploratória e descritiva**, combinando análise 
 
 | Dataset | Fonte | Registros | Descrição |
 |---|---|---|---|
-| TikTokData_1.xlsx | Emily Zawacki (Kaggle/Figshare) | 48 vídeos | Métricas reais de canal de Geologia (2021–2022) |
+| TikTokData_Video_Uploads.csv | Emily Zawacki (Kaggle/Figshare) | 48 vídeos | Métricas reais de canal de Geologia (2021–2022) |
 | youtube_shorts_tiktok_trends_2025.csv | Público | 48.079 linhas | Tendências TikTok e YouTube Shorts, 58 variáveis |
 
 ### Métricas Analisadas
